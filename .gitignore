@@ -1,2 +1,2 @@
-./django-venv
-./mindlog/.idea
+./django-venv/*
+./mindlog/.idea/*
